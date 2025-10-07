@@ -1,3 +1,3 @@
 # UII-Act-5-Tablas-Cesar-Loya-5I
 ejemplo de django
-<img width="740" height="594" alt="image" src="https://github.com/user-attachments/assets/f278c2d4-d5d8-4d06-8187-5fefc7dae219" />
+<img width="711" height="375" alt="image" src="https://github.com/user-attachments/assets/9593931f-f576-4a40-9b03-09123ae88eee" />
